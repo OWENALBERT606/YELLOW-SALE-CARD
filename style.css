@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+    text-decoration: none;
+}
+body{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+.yellowcard{
+    width: 600px;
+    height: 400px;
+    background-color: yellow;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.section1{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+   
+
+}
+.section2{
+    background-color: black;
+    width: 50%;
+    height: 100%;
+    padding: 30px;
+}
+.top{
+    width: 100%;
+    height: 10%;
+}
+
+    .btnxz{
+        margin-top: 10px;
+        margin-left: 10px;
+
+    }
+    .bottom{
+        width: 100%;
+        height: 10%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+    }
+    .box1{
+        background-color: yellow;
+        width: 20px;
+        height: 20px;
+        border-radius: 50px;
+        margin-left: 20px;
+    }
+    .middle{
+        width: 100%;
+        height: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+    }
+    .box2{
+        background-color:grey;
+        width: 20px;
+        height: 20px;
+        border-radius: 50px;
+        margin-left: 20px;
+    }
+    .chair{
+        width: 200px;
+    }
+    .chairs{
+        color: yellow;
+        margin-bottom: 5px;
+    }
+    .yellowchair{
+        color: white;
+        margin-bottom: 5px;
+    }
+    .tinner{
+        color: grey;
+    }
+    .dollarsec{
+        width: 100%;
+        height:10%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin-top: 5px;
+    }
+    .part1{
+        width: 50%;
+        height: 100%;
+        color: white;
+        padding: 3px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .part2{
+        width: 50%;
+        height: 100%;
+        color: white;
+        padding: 3px;
+    }
+    svg{
+        width: 20px;
+    }
+    .content{
+        color: white;
+        font-size: 14px;
+    }
+    .description{
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        font-size: 15px;
+        margin-bottom: 10px;
+        border-bottom:2px solid grey;
+    }
+    .two{
+        margin-left: 10px;
+        
+    }
+    a.wishlist{
+        text-align: center;
+        border: 2px solid white;
+        border-radius: 20px;
+        color:white;
+        margin-bottom: 10px;
+        padding:10px 20px;
+
+    }
+    a.addtocart{
+        text-align: center;
+        border: 2px solid yellow;
+        border-radius: 20px;
+        color: black;
+        padding: 10px 40px;
+        background-color: yellow;
+
+
+    }
+    .bottomsec{
+        height: 25%;
+        width: 100%;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+        padding: 5px;
+        font-size: 10px;
+
+
+    }
+    .stats{
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    h6{
+    font-size: 10px;
+    margin-right: 10px;
+    color: white;
+    }
+    .box11{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+    button.rr{
+        border-radius: 20px;
+        padding: 5px 10px;
+        margin-left: 20px;
+        margin-top: 10px;
+        background-color: grey;
+    }
+    .bxx{
+        background-color: yellow;
+        border-radius: 50px;
+        width: 20px;
+        height: 20px;
+        margin-top: 20px;
+    }
